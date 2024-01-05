@@ -2,6 +2,7 @@ Home Price Estimation Algorithm
 Welcome to the Home Price Estimation Algorithm! This project is all about making an easy-to-use, efficient tool for estimating home prices using a matrix-based approach in C programming.
 
 Description
+
 The core of this project is an algorithm implemented in C that utilizes matrix operations to estimate the prices of homes based on various inputs. This includes creating and manipulating matrices for linear regression, which is particularly useful for predicting housing prices based on historical data.
 
 Features
