@@ -1,23 +1,35 @@
-Home Price Estimation Algorithm
-Welcome to the Home Price Estimation Algorithm! This project is all about making an easy-to-use, efficient tool for estimating home prices using a matrix-based approach in C programming.
+# Home Price Estimation Algorithm
 
-Description
+## Description
 
-The core of this project is an algorithm implemented in C that utilizes matrix operations to estimate the prices of homes based on various inputs. This includes creating and manipulating matrices for linear regression, which is particularly useful for predicting housing prices based on historical data.
+Welcome to the **Home Price Estimation Algorithm**! This project is all about developing an easy-to-use and efficient tool for estimating home prices using matrix operations in C.
 
-Features
-Implements basic matrix operations like multiplication, transposition, and inversion.
-Reads data from files to construct matrices representing housing features and prices.
-Uses linear regression for price prediction.
-Efficient memory management with dynamic allocation and deallocation.
-Getting Started
-Prerequisites
-To run this program, ensure you have a C compiler installed on your machine. GCC or Clang are recommended.
+## Features
 
-Installation
-Clone the repo:
-gcc -o home_price_estimator main.c
-Usage
-After compiling, run the program using:
-./home_price_estimator data_file_1 data_file_2
-Where data_file_1 and data_file_2 are the input files containing the housing data and features.
+- **Matrix Operations**: Implements basic matrix functions such as multiplication, transposition, and inversion.
+- **Linear Regression**: Utilizes linear regression for predicting housing prices based on historical data.
+- **Efficient Memory Management**: Dynamic allocation and deallocation of matrices.
+- **File Input/Output**: Reads housing data and features from files for processing.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have a C compiler, like GCC or Clang, installed on your machine.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your_username_/Home-Price-Estimation-Algorithm.git
+2. **Compile the code**:
+   ```bash
+    gcc -o home_price_estimator main.c
+3. **Run the Program using**:
+   ```bash
+    ./home_price_estimator data_file_1 data_file_2
+  Replace data_file_1 and data_file_2 with your input file names.
+
+
+
+
